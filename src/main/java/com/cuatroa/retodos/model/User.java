@@ -9,7 +9,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 
 /**
  *
- * @author desaextremo
+ * @author HERNAN DARIO GUTIERREZ
  */
 
 @Document(collection = "usuarios")

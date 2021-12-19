@@ -20,7 +20,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 /**
  *
- * @author desaextremo
+ * @author HERNAN DARIO GUTIERREZ
  */
 @RestController
 @RequestMapping("/api/user")
